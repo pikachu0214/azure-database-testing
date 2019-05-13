@@ -1,0 +1,4 @@
+# Compiled source #
+###################
+*.png
+*package-lock.json
